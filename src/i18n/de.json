@@ -1,0 +1,163 @@
+{
+  "nav": {
+    "about": "Über mich",
+    "services": "Leistungen",
+    "projects": "Projekte",
+    "testimonials": "Referenzen",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "badge": "30 Jahre Erfahrung",
+    "title": "Ihr Maler des Vertrauens in Satu Mare",
+    "subtitle": "Saubere Arbeit, hochwertige Materialien und absolute Zuverlässigkeit — seit 30 Jahren in Ihrem Dienst.",
+    "cta": "Kostenloses Angebot anfordern",
+    "ctaSecondary": "Meine Projekte ansehen"
+  },
+  "about": {
+    "title": "János Tölgyi",
+    "subtitle": "Handwerk mit Herz, Qualität mit Garantie",
+    "text1": "Mit über 30 Jahren Erfahrung im Handwerk ist János Tölgyi einer der angesehensten Maler- und Lackierermeister in Satu Mare. Jedes Projekt wird mit derselben Leidenschaft und Liebe zum Detail ausgeführt — ob Einzimmerwohnung oder Bürogebäude.",
+    "text2": "János' Ruf entsteht Projekt für Projekt: zufriedene Kunden, saubere Arbeit, eingehaltene Termine. Keine Ausreden, keine Kompromisse. Das ist der Maßstab, den er sich von Anfang an gesetzt hat.",
+    "badge1": "30+ Jahre Erfahrung",
+    "badge2": "100% Kundenzufriedenheit",
+    "badge3": "Satu Mare & Umgebung",
+    "badge4": "Premium-Materialien"
+  },
+  "services": {
+    "title": "Unsere Leistungen",
+    "subtitle": "Komplette Maler- und Veredelungslösungen für Wohnungen und Gewerbeflächen",
+    "items": {
+      "interior": {
+        "title": "Innenmalerarbeiten",
+        "description": "Streichen von Wänden und Decken mit waschbaren, antibakteriellen oder dekorativen Farben. Untergrundvorbereitung, Spachteln und Glätten für ein perfektes Ergebnis."
+      },
+      "exterior": {
+        "title": "Außenmalerarbeiten",
+        "description": "Wärmedämmung und Fassadengestaltung mit witterungsbeständigen Materialien. Langfristiger Schutz und modernes Erscheinungsbild für jedes Gebäude."
+      },
+      "wallpaper": {
+        "title": "Tapezierarbeiten",
+        "description": "Anbringen und Entfernen aller Tapetenarten: klassisch, textil, vinyl oder 3D-Dekortapete. Perfekte Oberflächen ohne Blasen oder sichtbare Nähte."
+      },
+      "lacquer": {
+        "title": "Holz- & Metallarbeiten",
+        "description": "Lackieren von Türen, Fenstern, Geländern, Heizkörpern und Metallbauteilen. Langlebige Oberflächen mit Korrosionsschutz."
+      },
+      "decorative": {
+        "title": "Dekorative Oberflächen",
+        "description": "Dekorputze, venezianischer Stuck, Sichtbeton-Optik und moderne Texturen. Einzigartige Effekte, die jeden Raum verwandeln."
+      },
+      "consultation": {
+        "title": "Kostenlose Beratung",
+        "description": "Vor-Ort-Besichtigung, Materialempfehlung und detailliertes Angebot — völlig kostenlos und unverbindlich."
+      }
+    }
+  },
+  "projects": {
+    "title": "Abgeschlossene Projekte",
+    "subtitle": "Eine Auswahl unserer Arbeiten — jedes Projekt erzählt eine Geschichte über Qualität",
+    "duration": "Dauer",
+    "days": "Tage",
+    "items": {
+      "p1": {
+        "title": "Renovierung 3-Zimmer-Wohnung",
+        "description": "Komplette Innenmalerarbeiten, Spachteln, Tapezieren im Schlafzimmer und dekorative Oberflächen im Wohnzimmer.",
+        "duration": "5",
+        "location": "Satu Mare, Str. Florilor"
+      },
+      "p2": {
+        "title": "Fassade Wohngebäude",
+        "description": "Fassadenrenovierung mit Wärmedämmung, Grundierung und Dreifarbenlackierung. Hochwertige UV-beständige Arbeit.",
+        "duration": "18",
+        "location": "Satu Mare, Bd. Independenței"
+      },
+      "p3": {
+        "title": "Gewerbefläche – Showroom",
+        "description": "Dekorative Beton- und Mikrozementoberflächen, Wandbeschichtung mit waschbarer Epoxidfarbe.",
+        "duration": "8",
+        "location": "Satu Mare, Industriegebiet"
+      },
+      "p4": {
+        "title": "Einfamilienhaus – komplettes Innenleben",
+        "description": "Komplette Innenmalerarbeiten, 3D-Tapete in Kinderzimmern, venezianischer Stuck im Badezimmer, Streichen von Holzfenstern und -türen.",
+        "duration": "12",
+        "location": "Satu Mare, Viertel Micro 16"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Was Kunden sagen",
+    "subtitle": "Über 30 Jahre durchgehend positive Bewertungen — die Menschen kommen wieder, weil János immer hält, was er verspricht",
+    "items": {
+      "t1": {
+        "name": "Kovács Maria",
+        "project": "Wohnungsrenovierung",
+        "text": "János hat in unserer Wohnung tadellose Arbeit geleistet. Er kam pünktlich, arbeitete ordentlich und das Ergebnis übertraf unsere Erwartungen bei weitem. Ich empfehle ihn mit vollster Überzeugung!"
+      },
+      "t2": {
+        "name": "Ioan Moldovan",
+        "project": "Hausfassade",
+        "text": "Ich habe im Laufe der Jahre viele Maler engagiert, aber János ist wirklich anders. Solch professionelles Handwerk sieht man selten — hochwertige Materialien und ein Ergebnis, das hält. Vielen Dank!"
+      },
+      "t3": {
+        "name": "Andreea Popa",
+        "project": "Showroom-Oberflächen",
+        "text": "Wir arbeiten seit 5 Jahren mit János für alle unsere Gewerbeflächen zusammen. Keine einzige Enttäuschung, immer pünktlich und immer höchste Qualität. Ein verlässlicher Geschäftspartner!"
+      },
+      "t4": {
+        "name": "Tibor Szabó",
+        "project": "Komplettes Haus",
+        "text": "Faire Preise für ausgezeichnete Arbeit. János macht keine Kompromisse bei der Qualität — er räumt alles nach sich auf, hält Termine ein und gibt gute Ratschläge zu Materialien. 100% zufrieden!"
+      }
+    }
+  },
+  "faq": {
+    "title": "Häufige Fragen",
+    "items": {
+      "q1": {
+        "question": "Was kostet eine Malerarbeit in Satu Mare?",
+        "answer": "Der Preis hängt von der Fläche, dem Zustand der Wände und der gewählten Farbe ab. János bietet eine kostenlose Vor-Ort-Besichtigung und ein unverbindliches Angebot. Kontaktieren Sie ihn direkt für eine persönliche Einschätzung."
+      },
+      "q2": {
+        "question": "Wie lange dauert das komplette Streichen einer Wohnung?",
+        "answer": "Eine 2-3-Zimmer-Wohnung dauert in der Regel 3-5 Tage, je nach Zustand der Oberflächen und den erforderlichen Arbeiten (Spachteln, Tapezieren, dekorative Oberflächen)."
+      },
+      "q3": {
+        "question": "Welche Materialien verwenden Sie?",
+        "answer": "János verwendet ausschließlich Premium-Materialien von anerkannten Herstellern (Caparol, Kober, Baumit). Die Qualität der Materialien gewährleistet langfristige Haltbarkeit und ein erstklassiges Erscheinungsbild."
+      },
+      "q4": {
+        "question": "Gibt es eine Garantie auf die Arbeiten?",
+        "answer": "Ja, alle Arbeiten werden mit Garantie ausgeführt. János achtet bei jedem Schritt auf die Qualität und kommt zurück, wenn nach der Fertigstellung irgendein Problem auftritt."
+      }
+    }
+  },
+  "contact": {
+    "title": "Kontakt aufnehmen",
+    "subtitle": "Fordern Sie eine kostenlose Beratung an. Ich antworte so schnell wie möglich.",
+    "form": {
+      "name": "Ihr Name",
+      "email": "E-Mail-Adresse",
+      "phone": "Telefonnummer",
+      "message": "Beschreiben Sie die gewünschte Arbeit",
+      "submit": "Nachricht senden",
+      "sending": "Wird gesendet...",
+      "success": "Nachricht erfolgreich gesendet! Ich werde mich bald bei Ihnen melden.",
+      "error": "Ein Fehler ist aufgetreten. Bitte kontaktieren Sie mich direkt per Telefon."
+    },
+    "info": {
+      "address": "Strada Mihai Eminescu 14, Satu Mare 440014, Rumänien",
+      "phone": "+40 761 234 567",
+      "freeConsult": "Kostenlose Beratung vor Ort",
+      "whatsapp": "Per WhatsApp kontaktieren",
+      "facebook": "Auf Facebook folgen"
+    }
+  },
+  "footer": {
+    "tagline": "Qualität und Professionalität seit 30 Jahren in Satu Mare.",
+    "rights": "Alle Rechte vorbehalten.",
+    "links": {
+      "privacy": "Datenschutzrichtlinie"
+    }
+  }
+}

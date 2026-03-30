@@ -1,0 +1,163 @@
+{
+  "nav": {
+    "about": "About",
+    "services": "Services",
+    "projects": "Projects",
+    "testimonials": "References",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "30 years of experience",
+    "title": "Your trusted painter in Satu Mare",
+    "subtitle": "Impeccable work, quality materials and complete reliability — serving you for 30 years.",
+    "cta": "Request a free quote",
+    "ctaSecondary": "View my projects"
+  },
+  "about": {
+    "title": "János Tölgyi",
+    "subtitle": "Craftsmanship with heart, quality with guarantee",
+    "text1": "With over 30 years of professional experience, János Tölgyi is one of the most respected painting craftsmen in Satu Mare. Every project is handled with the same passion and attention to detail — whether it's a studio apartment or an office building.",
+    "text2": "János' reputation is built project by project: satisfied clients, clean work, deadlines met. No excuses, no compromises. This is the standard he set for himself from the very beginning.",
+    "badge1": "30+ years experience",
+    "badge2": "100% satisfaction",
+    "badge3": "Satu Mare & surroundings",
+    "badge4": "Premium materials"
+  },
+  "services": {
+    "title": "Our services",
+    "subtitle": "Complete painting and finishing solutions for residential and commercial spaces",
+    "items": {
+      "interior": {
+        "title": "Interior painting",
+        "description": "Painting walls and ceilings with washable, antibacterial or decorative paint. Surface preparation, filling and smoothing for a perfect result."
+      },
+      "exterior": {
+        "title": "Exterior painting",
+        "description": "Thermal insulation and facade painting with weather-resistant materials. Long-term protection and a modern look for any building."
+      },
+      "wallpaper": {
+        "title": "Wallpapering",
+        "description": "Application and removal of all types of wallpaper: classic, textile, vinyl or 3D decorative wallpaper. Perfect surfaces without bubbles or visible seams."
+      },
+      "lacquer": {
+        "title": "Wood & metal finishing",
+        "description": "Painting and varnishing of doors, windows, railings, radiators and metal elements. Durable finishes with anti-corrosion protection."
+      },
+      "decorative": {
+        "title": "Decorative finishes",
+        "description": "Decorative plasters, Venetian stucco, exposed concrete effect and modern textures. Unique effects that transform any space."
+      },
+      "consultation": {
+        "title": "Free consultation",
+        "description": "On-site visit for assessment, material recommendations and detailed quote — completely free of charge and with no obligation."
+      }
+    }
+  },
+  "projects": {
+    "title": "Completed projects",
+    "subtitle": "A selection of our work — each project tells a story of quality",
+    "duration": "Duration",
+    "days": "days",
+    "items": {
+      "p1": {
+        "title": "3-room apartment renovation",
+        "description": "Complete interior painting, filling, wallpapering in the bedroom and decorative finishes in the living room.",
+        "duration": "5",
+        "location": "Satu Mare, Str. Florilor"
+      },
+      "p2": {
+        "title": "Residential building facade",
+        "description": "Facade renovation with thermal insulation, priming and three-color painting. High quality UV-resistant work.",
+        "duration": "18",
+        "location": "Satu Mare, Bd. Independenței"
+      },
+      "p3": {
+        "title": "Commercial space – showroom",
+        "description": "Decorative concrete and microcement surfaces, wall coating with washable epoxy paint.",
+        "duration": "8",
+        "location": "Satu Mare, Industrial Zone"
+      },
+      "p4": {
+        "title": "Detached house – full interior",
+        "description": "Complete interior painting, 3D wallpaper in children's rooms, Venetian stucco in bathroom, painting wood windows and doors.",
+        "duration": "12",
+        "location": "Satu Mare, Micro 16 district"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "What clients say",
+    "subtitle": "Over 30 years of consistently positive reviews — people come back because János always delivers what he promises",
+    "items": {
+      "t1": {
+        "name": "Maria Kovács",
+        "project": "Apartment renovation",
+        "text": "János did an impeccable job in our apartment. He arrived on time, worked in an orderly manner and the result far exceeded our expectations. I recommend him wholeheartedly!"
+      },
+      "t2": {
+        "name": "Ioan Moldovan",
+        "project": "House facade",
+        "text": "I have hired many painters over the years, but János is truly different. Such professionalism is rarely seen — quality materials and a result that lasts. Thank you!"
+      },
+      "t3": {
+        "name": "Andreea Popa",
+        "project": "Showroom finishes",
+        "text": "We have been working with János for 5 years for all our commercial spaces. Not a single disappointment, always punctual and always maximum quality. A reliable business partner!"
+      },
+      "t4": {
+        "name": "Tibor Szabó",
+        "project": "Complete house",
+        "text": "Fair prices for excellent work. János does not compromise on quality — he cleans up everything after himself, meets deadlines and gives good advice about materials. 100% satisfied!"
+      }
+    }
+  },
+  "faq": {
+    "title": "Frequently asked questions",
+    "items": {
+      "q1": {
+        "question": "How much does a painting job cost in Satu Mare?",
+        "answer": "The price varies depending on the surface area, the condition of the walls and the type of paint chosen. János offers a free on-site consultation and quote with no obligation. Contact him directly for a personalized assessment."
+      },
+      "q2": {
+        "question": "How long does it take to fully paint an apartment?",
+        "answer": "A 2-3 room apartment typically takes 3-5 days, depending on the condition of the surfaces and the work required (filling, wallpapering, decorative finishes)."
+      },
+      "q3": {
+        "question": "What materials do you use?",
+        "answer": "János exclusively uses premium quality materials from recognized manufacturers (Caparol, Kober, Baumit). The quality of materials ensures long-term durability and a superior appearance."
+      },
+      "q4": {
+        "question": "Do you offer a guarantee on the work?",
+        "answer": "Yes, all work is carried out with a guarantee. János monitors quality at every step and returns if any issue arises after completion."
+      }
+    }
+  },
+  "contact": {
+    "title": "Get in touch",
+    "subtitle": "Request a free consultation. I will respond as soon as possible.",
+    "form": {
+      "name": "Your name",
+      "email": "Email address",
+      "phone": "Phone number",
+      "message": "Describe the work you need",
+      "submit": "Send message",
+      "sending": "Sending...",
+      "success": "Message sent successfully! I will contact you shortly.",
+      "error": "An error occurred. Please contact me directly by phone."
+    },
+    "info": {
+      "address": "Strada Mihai Eminescu 14, Satu Mare 440014, Romania",
+      "phone": "+40 761 234 567",
+      "freeConsult": "Free on-site consultation",
+      "whatsapp": "Contact via WhatsApp",
+      "facebook": "Follow on Facebook"
+    }
+  },
+  "footer": {
+    "tagline": "Quality and professionalism for 30 years in Satu Mare.",
+    "rights": "All rights reserved.",
+    "links": {
+      "privacy": "Privacy policy"
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "nav": {
+    "about": "Rólam",
+    "services": "Szolgáltatások",
+    "projects": "Projektek",
+    "testimonials": "Referenciák",
+    "contact": "Kapcsolat"
+  },
+  "hero": {
+    "badge": "30 éves tapasztalat",
+    "title": "Az Ön megbízható festője Szatmárnémetiben",
+    "subtitle": "Hibátlan munkák, minőségi anyagok és tökéletes pontosság — 30 éve az Ön szolgálatában.",
+    "cta": "Ingyenes árajánlat kérése",
+    "ctaSecondary": "Projektek megtekintése"
+  },
+  "about": {
+    "title": "Tölgyi János",
+    "subtitle": "Szívből jövő mesterség, garantált minőség",
+    "text1": "Több mint 30 éves szakmai tapasztalattal Tölgyi János Szatmárnémeti egyik legkeresettebb festő-mázolója. Minden munkát ugyanolyan szenvedéllyel és odafigyeléssel végez — legyen szó egy garzonlakásról vagy egy irodaépületről.",
+    "text2": "János hírnevét projekt után projekt építette: elégedett ügyfelek, precíz munkák, betartott határidők. Nincs kifogás, nincs kompromisszum. Ez az a mérce, amelyet kezdettől fogva felállított magának.",
+    "badge1": "30+ év tapasztalat",
+    "badge2": "100% elégedettség",
+    "badge3": "Szatmárnémeti és környéke",
+    "badge4": "Prémium anyagok"
+  },
+  "services": {
+    "title": "Szolgáltatások",
+    "subtitle": "Komplex festési és felületkezelési megoldások lakások és kereskedelmi helyiségek számára",
+    "items": {
+      "interior": {
+        "title": "Beltéri festés",
+        "description": "Falak és mennyezetek festése mosható, antibakteriális vagy dekoratív festékkel. Felületelőkészítés, glettelés és simítás a tökéletes eredményért."
+      },
+      "exterior": {
+        "title": "Kültéri festés",
+        "description": "Homlokzatok szigetelése és festése időjárásálló anyagokkal. Hosszú távú védelem és modern megjelenés minden épületnek."
+      },
+      "wallpaper": {
+        "title": "Tapétázás",
+        "description": "Mindenféle tapéta felrakása és eltávolítása: klasszikus, textil, vinyl vagy 3D dekoratív tapéta. Tökéletes felületek, buborékok és látható illesztések nélkül."
+      },
+      "lacquer": {
+        "title": "Fa- és fémmázolás",
+        "description": "Ajtók, ablakok, korlátok, radiátorok és fémszerkezetek festése és lakkozása. Tartós felületek rozsdásodás elleni védelemmel."
+      },
+      "decorative": {
+        "title": "Dekoratív felületek",
+        "description": "Dekoratív vakolatok, velencei stukk, dekoratív betontextúrák és modern felületek. Egyedi hatások, amelyek minden teret átalakítanak."
+      },
+      "consultation": {
+        "title": "Ingyenes tanácsadás",
+        "description": "Helyszíni felmérés, anyagajánlás és részletes árajánlat — teljesen ingyenesen, kötelezettség nélkül."
+      }
+    }
+  },
+  "projects": {
+    "title": "Elvégzett projektek",
+    "subtitle": "Munkáinkból egy válogatás — minden projekt a minőség egy-egy fejezete",
+    "duration": "Időtartam",
+    "days": "nap",
+    "items": {
+      "p1": {
+        "title": "3 szobás lakás felújítása",
+        "description": "Teljes beltéri festés, glettelés, tapétázás a hálóban és dekoratív felületek a nappaliban.",
+        "duration": "5",
+        "location": "Szatmárnémeti, Florilor utca"
+      },
+      "p2": {
+        "title": "Lakóépület homlokzata",
+        "description": "Homlokzatfelújítás hőszigetelással, alapozással és háromszínű festéssel. UV-álló, kiváló minőségű munka.",
+        "duration": "18",
+        "location": "Szatmárnémeti, Independenței boulevard"
+      },
+      "p3": {
+        "title": "Kereskedelmi tér – showroom",
+        "description": "Dekoratív betonhatású és mikrocement felületek, falak festése mosható epoxid festékkel.",
+        "duration": "8",
+        "location": "Szatmárnémeti, Ipari negyed"
+      },
+      "p4": {
+        "title": "Családi ház – teljes belső",
+        "description": "Teljes beltéri festés, 3D tapéta gyerekszobákban, velencei stukk a fürdőben, fa ablakok és ajtók mázolása.",
+        "duration": "12",
+        "location": "Szatmárnémeti, Micro 16 negyed"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Ügyfeleink mondják",
+    "subtitle": "30 éven át csak pozitív visszajelzések — az emberek visszatérnek, mert János mindig teljesíti ígéretét",
+    "items": {
+      "t1": {
+        "name": "Kovács Mária",
+        "project": "Lakásfelújítás",
+        "text": "János hibátlan munkát végzett a lakásunkban. Pontosan érkezett, rendezetten dolgozott, és az eredmény messze felülmúlta elvárásainkat. Teljes szívemből ajánlom!"
+      },
+      "t2": {
+        "name": "Moldovan Ioan",
+        "project": "Házszigetelés",
+        "text": "Az évek során sok festőt alkalmaztam, de János tényleg más kategória. Ritkán látni ilyen szakmaiságot, minőségi anyagokat és tartós eredményt. Köszönjük!"
+      },
+      "t3": {
+        "name": "Popa Andreea",
+        "project": "Showroom felületek",
+        "text": "5 éve együttműködünk Jánossal minden kereskedelmi terünkben. Soha nem csalódtunk, mindig pontos és mindig maximális minőség. Megbízható üzleti partner!"
+      },
+      "t4": {
+        "name": "Szabó Tibor",
+        "project": "Teljes házfelújítás",
+        "text": "Korrekt árak kiváló munkáért. János nem kompromisszumos a minőségben — mindent letakarít maga után, betartja a határidőket és jó tanácsot ad az anyagokról. 100% elégedett!"
+      }
+    }
+  },
+  "faq": {
+    "title": "Gyakori kérdések",
+    "items": {
+      "q1": {
+        "question": "Mennyibe kerül egy festési munka Szatmárnémetiben?",
+        "answer": "Az ár a felület nagyságától, a falak állapotától és a választott festék típusától függ. János ingyenes helyszíni felmérést és árajánlatot kínál, kötelezettség nélkül. Lépjen kapcsolatba közvetlenül a személyre szabott értékelésért."
+      },
+      "q2": {
+        "question": "Mennyi ideig tart egy lakás teljes festése?",
+        "answer": "Egy 2-3 szobás lakás általában 3-5 napot vesz igénybe, a felületek állapotától és a szükséges munkálatoktól függően (glettelés, tapétázás, dekoratív felületek)."
+      },
+      "q3": {
+        "question": "Milyen anyagokat használ?",
+        "answer": "János kizárólag elismert gyártók (Caparol, Kober, Baumit) prémium minőségű anyagait használja. Az anyagok minősége hosszú távú tartósságot és kiváló megjelenést biztosít."
+      },
+      "q4": {
+        "question": "Van-e garancia a munkákra?",
+        "answer": "Igen, minden munka garanciával készül. János minden lépésnél figyel a minőségre, és visszatér, ha a befejezés után bármilyen probléma merül fel."
+      }
+    }
+  },
+  "contact": {
+    "title": "Lépjen kapcsolatba",
+    "subtitle": "Kérjen ingyenes tanácsadást. A lehető legrövidebb időn belül válaszolok.",
+    "form": {
+      "name": "Az Ön neve",
+      "email": "E-mail cím",
+      "phone": "Telefonszám",
+      "message": "Írja le a kívánt munkát",
+      "submit": "Üzenet küldése",
+      "sending": "Küldés...",
+      "success": "Üzenet sikeresen elküldve! Hamarosan felveszem Önnel a kapcsolatot.",
+      "error": "Hiba történt. Kérem, keressen közvetlenül telefonon."
+    },
+    "info": {
+      "address": "Mihai Eminescu utca 14, Szatmárnémeti 440014",
+      "phone": "+40 761 234 567",
+      "freeConsult": "Ingyenes helyszíni tanácsadás",
+      "whatsapp": "Kapcsolatfelvétel WhatsApp-on",
+      "facebook": "Kövessen Facebookon"
+    }
+  },
+  "footer": {
+    "tagline": "30 éve minőség és szakmaiság Szatmárnémetiben.",
+    "rights": "Minden jog fenntartva.",
+    "links": {
+      "privacy": "Adatvédelmi szabályzat"
+    }
+  }
+}

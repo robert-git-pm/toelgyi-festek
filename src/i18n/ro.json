@@ -1,0 +1,163 @@
+{
+  "nav": {
+    "about": "Despre mine",
+    "services": "Servicii",
+    "projects": "Proiecte",
+    "testimonials": "Referințe",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "30 de ani de experiență",
+    "title": "Pictorul dumneavoastră de încredere în Satu Mare",
+    "subtitle": "Lucrări impecabile, materiale de calitate și punctualitate desăvârșită — de 30 de ani în serviciul dumneavoastră.",
+    "cta": "Cereți o ofertă gratuită",
+    "ctaSecondary": "Vezi proiectele mele"
+  },
+  "about": {
+    "title": "Despre János Tölgyi",
+    "subtitle": "Meserie cu inimă, calitate cu garanție",
+    "text1": "Cu peste 30 de ani de experiență în domeniu, János Tölgyi este unul dintre cei mai apreciați meșteri zugravi din Satu Mare. Fiecare proiect este tratat cu aceeași pasiune și atenție la detalii — fie că este vorba de o garsonieră sau de o clădire de birouri.",
+    "text2": "Reputația lui János se construiește proiect după proiect: clienți mulțumiți, lucrări curate, termene respectate. Nicio scuză, nicio compromis. Acesta este standardul pe care și l-a impus de la bun început.",
+    "badge1": "30+ ani experiență",
+    "badge2": "100% satisfacție",
+    "badge3": "Satu Mare & împrejurimi",
+    "badge4": "Materiale premium"
+  },
+  "services": {
+    "title": "Servicii oferite",
+    "subtitle": "Soluții complete de vopsitorie și finisare pentru locuințe și spații comerciale",
+    "items": {
+      "interior": {
+        "title": "Zugrăveli interioare",
+        "description": "Vopsire pereți și tavane cu vopsea lavabilă, antibacteriană sau decorativă. Pregătire suprafețe, chituire și gletare pentru un rezultat perfect."
+      },
+      "exterior": {
+        "title": "Zugrăveli exterioare",
+        "description": "Termoizolații și vopsire fațade cu materiale rezistente la intemperii. Protecție pe termen lung și aspect modern pentru orice clădire."
+      },
+      "wallpaper": {
+        "title": "Tapete și tapet",
+        "description": "Montaj și demontaj tapet de toate tipurile: clasic, textil, vinil sau tapet 3D decorativ. Suprafețe perfecte, fără bule sau îmbinări vizibile."
+      },
+      "lacquer": {
+        "title": "Lucrări de vopsitorie lemn/metal",
+        "description": "Vopsire și lăcuire uși, ferestre, balustrade, radiatoare și elemente metalice. Finisaje durabile cu protecție anticorozivă."
+      },
+      "decorative": {
+        "title": "Finisaje decorative",
+        "description": "Tencuieli decorative, stucco veneţian, beton aparent decorativ și texturi moderne. Efecte unice care transformă orice spațiu."
+      },
+      "consultation": {
+        "title": "Consultanță gratuită",
+        "description": "Vizită la domiciliu pentru evaluarea lucrărilor, recomandări de materiale și ofertă detaliată — fără costuri și fără obligații."
+      }
+    }
+  },
+  "projects": {
+    "title": "Proiecte realizate",
+    "subtitle": "O selecție din lucrările noastre — fiecare proiect spune o poveste a calității",
+    "duration": "Durată",
+    "days": "zile",
+    "items": {
+      "p1": {
+        "title": "Renovare apartament 3 camere",
+        "description": "Zugrăvire completă interior, gletare, tapet în dormitor și finisaje decorative în living.",
+        "duration": "5",
+        "location": "Satu Mare, Str. Florilor"
+      },
+      "p2": {
+        "title": "Fațadă bloc rezidențial",
+        "description": "Renovare fațadă cu termoizolație, grunduire și vopsire în 3 culori. Lucrare de înaltă calitate rezistentă la UV.",
+        "duration": "18",
+        "location": "Satu Mare, Bd. Independenței"
+      },
+      "p3": {
+        "title": "Spațiu comercial – showroom",
+        "description": "Finisaje decorative beton aparent și microciment, vopsire pereți cu vopsea epoxidică lavabilă.",
+        "duration": "8",
+        "location": "Satu Mare, Zona Industrială"
+      },
+      "p4": {
+        "title": "Casă individuală – interior complet",
+        "description": "Zugrăvire completă, tapet 3D în camere de copii, stucco venețian în baie, vopsire lemn la ferestre și uși.",
+        "duration": "12",
+        "location": "Satu Mare, Cartier Micro 16"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Ce spun clienții",
+    "subtitle": "Peste 30 de ani de recenzii pozitive — oamenii revin pentru că János livrează întotdeauna ce promite",
+    "items": {
+      "t1": {
+        "name": "Maria Kovács",
+        "project": "Renovare apartament",
+        "text": "János a făcut o treabă impecabilă la apartamentul nostru. A venit la timp, a lucrat ordonat și rezultatul a depășit așteptările noastre. Îl recomand cu toată încrederea!"
+      },
+      "t2": {
+        "name": "Ioan Moldovan",
+        "project": "Fațadă casă",
+        "text": "Am angajat mai mulți zugravi de-a lungul anilor, dar János este cu adevărat diferit. Profesionalism rar întâlnit, materiale de calitate și un rezultat care durează. Mulțumim!"
+      },
+      "t3": {
+        "name": "Andreea Popa",
+        "project": "Finisaje showroom",
+        "text": "Colaborăm cu János de 5 ani pentru toate spațiile noastre comerciale. Nicio dezamăgire, mereu punctual și mereu calitate maximă. Partener de afaceri de nădejde!"
+      },
+      "t4": {
+        "name": "Tibor Szabó",
+        "project": "Casă completă",
+        "text": "Prețuri corecte pentru o muncă excelentă. János nu face compromisuri la calitate — curăță tot după el, respectă termenele și dă sfaturi bune despre materiale. Mulțumit 100%!"
+      }
+    }
+  },
+  "faq": {
+    "title": "Întrebări frecvente",
+    "items": {
+      "q1": {
+        "question": "Cât costă o lucrare de zugrăvire în Satu Mare?",
+        "answer": "Prețul variază în funcție de suprafață, starea pereților și tipul de vopsea ales. János oferă consultanță și ofertă gratuită la domiciliu, fără nicio obligație. Contactați-l direct pentru o evaluare personalizată."
+      },
+      "q2": {
+        "question": "Cât timp durează o zugrăvire completă a unui apartament?",
+        "answer": "Un apartament de 2-3 camere durează de obicei 3-5 zile, în funcție de starea suprafețelor și lucrările necesare (gletare, tapet, finisaje decorative)."
+      },
+      "q3": {
+        "question": "Ce materiale folosiți?",
+        "answer": "János folosește exclusiv materiale de calitate premium de la producători recunoscuți (Caparol, Kober, Baumit). Calitatea materialelor asigură durabilitate și un aspect superior pe termen lung."
+      },
+      "q4": {
+        "question": "Oferiți garanție pentru lucrări?",
+        "answer": "Da, toate lucrările sunt executate cu garanție. János urmărește calitatea la fiecare pas și revine dacă apare orice problemă după finalizare."
+      }
+    }
+  },
+  "contact": {
+    "title": "Contactați-mă",
+    "subtitle": "Solicitați o consultanță gratuită. Răspund în cel mai scurt timp.",
+    "form": {
+      "name": "Numele dumneavoastră",
+      "email": "Adresa de email",
+      "phone": "Număr de telefon",
+      "message": "Descrieți lucrarea dorită",
+      "submit": "Trimiteți mesajul",
+      "sending": "Se trimite...",
+      "success": "Mesaj trimis cu succes! Vă voi contacta în curând.",
+      "error": "A apărut o eroare. Vă rugăm să ne contactați direct prin telefon."
+    },
+    "info": {
+      "address": "Strada Mihai Eminescu 14, Satu Mare 440014",
+      "phone": "+40 761 234 567",
+      "freeConsult": "Consultanță gratuită la domiciliu",
+      "whatsapp": "Contactați pe WhatsApp",
+      "facebook": "Urmăriți pe Facebook"
+    }
+  },
+  "footer": {
+    "tagline": "Calitate și profesionalism de 30 de ani în Satu Mare.",
+    "rights": "Toate drepturile rezervate.",
+    "links": {
+      "privacy": "Politica de confidențialitate"
+    }
+  }
+}
