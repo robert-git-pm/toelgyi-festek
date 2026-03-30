@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://robert-git-pm.github.io/tolgyi-festek/sitemap.xml
