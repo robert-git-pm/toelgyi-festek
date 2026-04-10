@@ -37,7 +37,7 @@ export default function About() {
           <div className="relative">
             <div className="relative rounded-2xl overflow-hidden shadow-xl aspect-[4/5]">
               <img
-                src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=700&q=80"
+                src="https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=700&q=80"
                 alt="János Tölgyi – professional painter"
                 className="w-full h-full object-cover"
                 loading="lazy"
