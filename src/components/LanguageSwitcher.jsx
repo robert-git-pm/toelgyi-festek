@@ -4,7 +4,6 @@ const langs = [
   { code: 'ro', label: 'RO' },
   { code: 'hu', label: 'HU' },
   { code: 'de', label: 'DE' },
-  { code: 'en', label: 'EN' },
 ];
 
 export default function LanguageSwitcher({ className = '' }) {
