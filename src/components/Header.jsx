@@ -7,6 +7,7 @@ const NAV_ITEMS = ['about', 'services', 'projects', 'testimonials', 'contact'];
 export default function Header() {
   const { t } = useTranslation();
   const [scrolled, setScrolled] = useState(false);
+  const [autoReveal, setAutoReveal] = useState(false);
   const [menuOpen, setMenuOpen] = useState(false);
 
   useEffect(() => {
@@ -15,6 +16,15 @@ export default function Header() {
     return () => window.removeEventListener('scroll', onScroll);
   }, []);
 
+  // Reveal the header automatically 3s after mount, using the same
+  // styling as the scrolled state.
+  useEffect(() => {
+    const timer = setTimeout(() => setAutoReveal(true), 3000);
+    return () => clearTimeout(timer);
+  }, []);
+
+  const revealed = scrolled || autoReveal;
+
   const scrollTo = (id) => {
     setMenuOpen(false);
     document.getElementById(id)?.scrollIntoView({ behavior: 'smooth' });
@@ -22,8 +32,10 @@ export default function Header() {
 
   return (
     <header
-      className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
-        scrolled ? 'bg-cream/95 backdrop-blur-sm shadow-sm' : 'bg-transparent'
+      className={`fixed top-0 left-0 right-0 z-50 transition-all duration-700 ease-out ${
+        revealed
+          ? 'bg-cream/95 backdrop-blur-sm shadow-sm opacity-100 pointer-events-auto'
+          : 'bg-transparent opacity-0 pointer-events-none'
       }`}
     >
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
