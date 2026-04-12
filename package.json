@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://robert-git-pm.github.io/tolgyi-festek/",
+  "homepage": "https://robert-builds.github.io/toelgyi-festek/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
